@@ -1,3 +1,5 @@
+<img align="right" alt="Coding" Width="500" src="https://media3.giphy.com/media/26tn33aiTi1jkl6H6/200w.webp?cid=ecf05e47u673bkf5n1qn7pib8a9ff2iul30nxt7h57w1iucq&ep=v1_gifs_search&rid=200w.webp&ct=g">
+
 <h1 align="center">Hi 👋, I'm Samuel Ogboru</h1>
 <h3 align="center">A passionate frontend developer from Nigeria</h3>
 
