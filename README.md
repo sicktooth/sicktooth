@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sicktooth" alt="sicktooth" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/samuel_o_osaro" target="blank"><img src="https://img.shields.io/twitter/follow/samuel_o_osaro?logo=twitter&style=for-the-badge" alt="samuel_o_osaro" /></a> </p>
+<p align="left"> <a href="[https://twitter.com/samuel_o_osaro](https://x.com/SamuelOgboru?t=JfMpu8Cm6gLX34T175z4HA&s=09)" target="blank"><img src="https://img.shields.io/twitter/follow/samuel_o_osaro?logo=twitter&style=for-the-badge" alt="samuelOgboru" /></a> </p>
 
 - 🌱 I’m currently learning **NodeJs, ExpressJs, APIs, SQL, MogoDB, Mongoose & EJS. For now**
 
