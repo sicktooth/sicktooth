@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sicktooth" alt="sicktooth" /></a> </p>
 
-<p align="left"> <a href="[https://twitter.com/samuel_o_osaro](https://x.com/SamuelOgboru?t=JfMpu8Cm6gLX34T175z4HA&s=09)" target="blank"><img src="https://img.shields.io/twitter/follow/samuel_o_osaro?logo=twitter&style=for-the-badge" alt="samuelOgboru" /></a> </p>
+<p align="left"> <a href="https://twitter.com/samuelOgboru" target="blank"><img src="https://img.shields.io/twitter/follow/samuel_o_osaro?logo=twitter&style=for-the-badge" alt="samuelOgboru" /></a> </p>
 
-- 🌱 I’m currently learning **NodeJs, ExpressJs, APIs, SQL, MogoDB, Mongoose & EJS. For now**
+- 🌱 I’m currently learning ** ReactJS For now**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-nine-gules-60.vercel.app/](https://portfolio-nine-gules-60.vercel.app/)
 
-- 💬 Ask me about **HTML, CSS, JavaScript, TailwindCSS, Bootstrap, GIT and Github**
+- 💬 Ask me about **HTML, CSS, JavaScript, TailwindCSS, Bootstrap, NodeJs, ExpressJs, APIs, MongoDB/Mongoose, EJS, GIT and Github**
 
 - 📫 How to reach me **sosaronungwe@gmail.com**
 
@@ -21,7 +21,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/samuel_o_osaro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="samuel_o_osaro" height="30" width="40" /></a>
+<a href="https://twitter.com/samuelOgboru" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="samuel_o_osaro" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
