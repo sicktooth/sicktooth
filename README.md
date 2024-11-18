@@ -5,13 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sicktooth&label=Profile%20views&color=0eb47d&style=flat" alt="sicktooth" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://samuelogboru.vercel.app/?username=sicktooth" alt="sicktooth" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sicktooth" alt="sicktooth" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/samuelOgboru" target="blank"><img src="https://img.shields.io/twitter/follow/samuel_o_osaro?logo=twitter&style=for-the-badge" alt="samuelOgboru" /></a> </p>
 
 - 🌱 I’m currently learning ** ReactJS & RestFul APIs For now**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-nine-gules-60.vercel.app/](https://portfolio-nine-gules-60.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://samuelogboru.vercel.app/](https://samuelogboru.vercel.app/)
 
 - 💬 Ask me about **HTML, CSS, JavaScript, TailwindCSS, Bootstrap, NodeJs/ExpressJs, MongoDB/Mongoose, EJS, GIT and Github**
 
