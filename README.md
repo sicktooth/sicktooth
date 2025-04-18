@@ -9,15 +9,15 @@
 
 <p align="left"> <a href="https://twitter.com/samuelOgboru" target="blank"><img src="https://img.shields.io/twitter/follow/samuelogboru?logo=twitter&style=for-the-badge" alt="samuelOgboru" /></a> </p>
 
-- 🌱 I’m currently learning ** ReactJS & RestFul APIs For now**
+- 🌱 I’m currently building more using **ReactJS & RestFul APIs For now**
 
 - 👨‍💻 All of my projects are available at [https://samuelogboru.vercel.app/](https://samuelogboru.vercel.app/)
 
-- 💬 Ask me about **HTML, CSS, JavaScript, TailwindCSS, Bootstrap, NodeJs/ExpressJs, MongoDB/Mongoose, EJS, GIT and Github**
+- 💬 Ask me about **HTML, CSS, JavaScript, ReactJS, TailwindCSS, Bootstrap, NodeJS/ExpressJS, MongoDB/Mongoose, EJS, GIT, and Github**
 
-- 📫 How to reach me **sosaronungwe@gmail.com**
+- 📫 How to reach me **sammy_o_osaro@outlook.com**
 
-- ⚡ Fun fact **I play mobile games**
+- ⚡ Fun fact **I play mobile games sometimes..**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
