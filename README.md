@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/samuelOgboru" target="blank"><img src="https://img.shields.io/twitter/follow/samuelogboru?logo=twitter&style=for-the-badge" alt="samuelOgboru" /></a> </p>
 
-- 🌱 I’m currently building more using **ReactJS, Python for predictive maintenance & RestFul APIs For now**
+- 🌱 I’m currently building more using **ReactJS, Python for Data analysis, ML and AI & RestFul APIs For now**
 
 - 👨‍💻 All of my projects are available at [https://samuelogboru.vercel.app/](https://samuelogboru.vercel.app/)
 
